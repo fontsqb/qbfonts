@@ -1,6 +1,6 @@
 @font-face {
-    font-family: 'QB-Condensed';
-    src: url('https://github.com/fontsqb/qbfonts/raw/refs/heads/main/caslon_doric_condensed_qb-bold_headings_only-webfont.woff') format('woff2');
+    font-family: 'CaslonDoric';
+    src: url('https://raw.githubusercontent.com/fontsqb/qbfonts/main/caslon_doric_condensed_qb-bold_headings_only-webfont.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 }
